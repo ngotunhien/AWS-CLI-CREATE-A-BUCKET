@@ -1,6 +1,5 @@
 # AWS-CLI-CREATE-A-BUCKET
-
-https://www.youtube.com/watch?v=sIx7MO4rcCU
+#Example:
 
 1) Create key pair
 aws ec2 create-key-pair --key-name steven0330 --query 'KeyMaterial' --output text
